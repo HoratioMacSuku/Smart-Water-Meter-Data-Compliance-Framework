@@ -79,15 +79,13 @@ Reusable, transparent, and automated validation process suitable for production 
 ## 7. Folder Structure
 
 smart_water_compliance/
-│
-├── config/ # Validation rules and schema definitions
-├── ingestion/ # Data extraction and transformation
-├── validation/ # Schema and threshold validation modules
-├── reporting/ # Compliance reports and reliability scoring
-├── audit_logs/ # Validation evidence and reports
-├── tests/ # Validation and system integrity checks
-└── docs/ # Regulatory framework documentation
-
+- config/ # Validation rules and schema definitions
+- ingestion/ # Data extraction and transformation
+- validation/ # Schema and threshold validation modules
+- reporting/ # Compliance reports and reliability scoring
+- audit_logs/ # Validation evidence and reports
+- tests/ # Validation and system integrity checks
+- docs/ # Regulatory framework documentation
 
 
 ---
